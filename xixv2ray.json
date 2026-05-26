@@ -8,113 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "بندر صدا میاد.",
-      "date": "2026-05-25T20:41:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "🍓 XIX"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003eدلیل صدا های بندر مشخص شد.",
-      "date": "2026-05-25T20:43:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "🍓 XIX",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TQUMqcCyOhDOOawN5nyf2D5p6nD9JZnGMeFUhs7qUKerDFOKiKVgUd2AUt4AaGVzNrODvZKqO0uabybI63RMH9b25m-TJ3hzgfKUXcGymwsflcFcZ4nE_ZWYvs8pG9pXztGwZEfZkOsGHhLreKSgAa5-pehqtE04oDmjr5ruC1QRvmVNdJZNcvvcPOCmSj8nnEx_i_gcRoD7Y022veS4DQ1XD-QV_uoyvSDrr7vP-V4yc3MEfkLsU4cM3i25whoo9snQ4veNmQIRAcfSEWVK4flNDadoEgh0g6X7mKtYuVUF5DSpBSjn3AtX1_huq5xy4lGoes9AHtzJgo-3OTEwUQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "کلودفلر گذاشتم ایران آزاد \u003ca href=\"https://t.me/xixvpn\" target=\"_blank\"\u003e@xixvpn\u003c/a\u003e",
-      "date": "2026-05-25T20:48:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "🍓 XIX"
-    },
-    {
-      "id": 0,
-      "message": "سرعتوووو",
-      "date": "2026-05-25T20:51:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "🍓 XIX",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/db18Qe6a7K3v8XSUGBT-j-EVMI5D7jR5gooJbS5xKNXwwG55jNSjn2gVbXIlx5W_oQB9PyWZCam0ROUKJ06DE-ihD0v6kO2j8erHP-oT1dXLOI_nsn971iBPnf-3SpzfqDZwpCE02tOusPnliqyJPImYCpkfs0MQEXerXn5QhbpZxNF_apSg9En84cd1sYk0cGgDVewChi5V-D7LribaLkF45dbC-dPauOGBWvV_tPxRY3PnDawzpAHgI78IvN5c6Xr5KPPcbYtpuEUACtotvetkGownc-TE9FGZrGMlPULR9rPSgfHZ6O0-Z2eAfIfshgHU8XueRPrFbu9NXRKwxA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "میو\u003ctg-emoji emoji-id=\"5407103688084838400\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98BA.png\u0026#39;)\"\u003e\u003cb\u003e😺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/XIXVPN\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/XIXVPN\u003c/a\u003e",
-      "date": "2026-05-25T20:51:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "🍓 XIX"
-    },
-    {
-      "id": 0,
-      "message": "تست نهایی هم شد \u003ctg-emoji emoji-id=\"5407103688084838400\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98BA.png\u0026#39;)\"\u003e\u003cb\u003e😺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eترکیبی ها با سایفون وصل پینگ جالب انگیز\u003cbr/\u003e\u003ca href=\"https://t.me/XIXVPN\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/XIXVPN\u003c/a\u003e",
-      "date": "2026-05-25T21:01:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "🍓 XIX",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JhYl9PsCBQlGH2gpkRb4XFg3MvECp2ihB4O-c7eeWQvP2LjtE-edO7lC1qEG6fFPy7FxWZG9h93ajaoPVKTN21cSGS61_ICwSltFT0zRtwuSrxwnxidFtnKiVDxPiFvyJ8FUyz4EPuItWAQoZnGylhFL-uGbgAHFYKvrX6Eak_DgeAqbzx9MbLJKcjy4cBb7x3FuXo5RMw5KiWN7R5DzAe4dsr1n9Al-eJLUTrTjwHhqcVZ2hpDoKIeLcCfr7zjNesMuxcW_AE7Gm_c4GR1-sw-L02CYjwH6WyagQBgpX406CDCgFCpUTFvYdE0HYmD4FHxkWyHwMBmaLQtk-u8BoQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "میو بیدارید؟\u003ctg-emoji emoji-id=\"5407103688084838400\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98BA.png\u0026#39;)\"\u003e\u003cb\u003e😺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-05-25T23:15:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "🍓 XIX"
-    },
-    {
-      "id": 0,
       "message": "یه ترکیبی سایفون دارم اماده میکنم.",
       "date": "2026-05-25T23:16:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 13400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +24,7 @@
       "date": "2026-05-25T23:21:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 13900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +42,7 @@
       "date": "2026-05-25T23:28:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
+      "views": 15900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +54,7 @@
       "date": "2026-05-25T23:29:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 15700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +66,7 @@
       "date": "2026-05-25T23:40:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +78,7 @@
       "date": "2026-05-26T00:29:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 13400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +90,7 @@
       "date": "2026-05-26T01:25:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 15100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +102,7 @@
       "date": "2026-05-26T03:58:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9770,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +120,7 @@
       "date": "2026-05-26T04:08:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9940,
+      "views": 15800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +132,7 @@
       "date": "2026-05-26T04:09:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,12 +150,114 @@
       "date": "2026-05-26T05:11:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9210,
+      "views": 17600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "🍓 XIX"
+    },
+    {
+      "id": 0,
+      "message": "من خوابیدم نت وصل شده؟ بیدار شدم قطع شده؟ اگه مردم وصل میکنید که من میتونم واسه وصل شدنشون تلاش کنم بیشتر بخوابم.",
+      "date": "2026-05-26T12:10:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "🍓 XIX"
+    },
+    {
+      "id": 0,
+      "message": "فعلا یدونه ترکیبی سایفون اماده میکنم راضی بودید از دیشب \u003cbr/\u003eبعد ببینیم کی قرار کجا وصل بشه.",
+      "date": "2026-05-26T12:59:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "🍓 XIX"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9388.png\u0026#39;)\"\u003e\u003cb\u003e📈\u003c/b\u003e\u003c/i\u003e شاخص‌های زنده نشان‌دهنده بازگردانی جزئی به اتصال اینترنت در \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e در روز ۸۸، پس از ۲۰۹۳ ساعت انزوای تقریباً کامل از شبکه‌های بین‌المللی، طولانی‌ترین خاموشی اینترنت در سراسر کشور در تاریخ معاصر است. مشخص نیست که آیا این بازگردانی پایدار خواهد بود یا خیر.",
+      "date": "2026-05-26T13:02:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8310,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "🍓 XIX",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/oFuPtJURB1jqUvC79G5e_6Jlh6laFvTBDemt7l_oh0oRodn4wfQ1g6mEI53xhiWMZ5LqxFzNQI9oPIO9O3QtDBH-SQviU3wNZuBIqFtTWzMAFqqn9N3aRJeVo649xmqWLUBI2vT6INOwSR6fYXKkxcV45iWEKclBRBjSgb1mEIho0eaSOiVJgSB8ssXp5Gx8zr8M7Yua-SuLhxc-Tu5oXIwdjGPWoiQzzTBxuIcb2G5rHijdNF4MLNMRSauqtrDPTNWwaniucxc4OtyOVDkzihvZcSkAZmZsIAhCxu4dPrUilYXu2jwjVDSV5TZHZOMyRE7j3JBSwenDm0JFJwPp4w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "عوضش یاد گرفتید چطوری سایفون رو ترکیب کنید.",
+      "date": "2026-05-26T13:03:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "🍓 XIX"
+    },
+    {
+      "id": 0,
+      "message": "این وصل کردن اینترنت پزشکیان شبیه تست کانفیگ فروش ها بود.",
+      "date": "2026-05-26T13:14:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "🍓 XIX"
+    },
+    {
+      "id": 0,
+      "message": "سلام الان نمیشه سرور گیمینگ ب ما مخابراتیا بدی؟",
+      "date": "2026-05-26T13:22:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "🍓 XIX"
+    },
+    {
+      "id": 0,
+      "message": "به پزشکیان زنگ میزنم بهش میگم یه دستور ارسال کانفیگ هم بده.",
+      "date": "2026-05-26T13:22:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3690,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "🍓 XIX"
+    },
+    {
+      "id": 0,
+      "message": "دو دقیقه صبر کن اگه بخواد نت وصل بشه دیگه کانفیگ لازم نداری وصل میشی دیگه.",
+      "date": "2026-05-26T13:23:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "🍓 XIX"
     }
   ],
-  "last_updated": 1779790345
+  "last_updated": 1779802167
 }
